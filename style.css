@@ -1,0 +1,70 @@
+.foto-perfil{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.corPrimaria{
+    background-color: #48b4e0;
+
+}
+
+.corSecundaria{
+    background-color: #2f4149;
+
+}
+
+
+
+p{
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: black;
+}
+
+.icones{
+    padding-left: 5px;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: #2f4149;
+}
+
+.titulosVerdes {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: #2f4149;
+
+}
+.jumbotron{
+  margin: 0;
+}
+
+.text-center{
+  margin: 0;
+}
+
+#copy{
+  color: white;
+  font-size: 16px;
+}
+
+.textoFooter{
+  margin: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.textoBranco{
+  color: white;
+}
+
+html{
+  scroll-behavior: smooth;
+}
